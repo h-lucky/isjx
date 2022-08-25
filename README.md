@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**isJx/isjx** is a ✨ _special_ ✨
+**h-lucky** is a ✨ _special_ ✨
 
 Yesterday:  🧱🧱&emsp;&emsp;Today:  🧱🧱&emsp;&emsp;Tomorrow:  🧱🧱
 
@@ -19,7 +19,7 @@ Yesterday:  🧱🧱&emsp;&emsp;Today:  🧱🧱&emsp;&emsp;Tomorrow:  🧱🧱
 [![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)](https://cn.vuejs.org)
 ![Node](https://img.shields.io/badge/-Node-%23F05032?style=flat-square&logo=Node.js&logoColor=%23ffffff)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=isJx)](https://github.com/isJx/website)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucky)](https://github.com/lucky/website)
 
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isJx&theme=red&layout=compact) -->
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucky&theme=greed&layout=compact) -->
 
